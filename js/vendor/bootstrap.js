@@ -4491,4 +4491,4 @@
   return index_umd;
 
 }));
-//# sourceMappingURL=bootstrap.js.map
+//# sourceMappingURL=vendor.js.map
